@@ -1,15 +1,15 @@
 {
-  "name": "zzilccComponent",
+  "name": "zzilcc-ui",
   "version": "0.1.0",
   "description": "基于 Vue 的简易组件库",
-  "main": "lib/zzilccComponentt.umd.min.js",
-  "keyword": "zzilccComponent vue",
+  "main": "lib/zzilcc-ui.umd.min.js",
+  "keyword": "zzilcc-ui vue",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name zzilccComponent --dest lib packages/index.js"
+    "lib": "vue-cli-service build --target lib --name zzilcc-ui --dest lib packages/index.js"
   },
   "dependencies": {
     "core-js": "^2.6.5",
