@@ -1,7 +1,7 @@
 # demo
 
-## Project setup
+## Install
 ```
-npm install zzilccComponent
+npm install zzilcc-ui
 ```
 
