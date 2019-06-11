@@ -1,0 +1,30 @@
+{
+  "name": "theme-default",
+  "version": "1.0.0",
+  "description": "default theme",
+  "main": "lib/index.css",
+  "style": "lib/index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bulid": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzilcc/theme-default.git"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "zzilcc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzilcc/theme-default/issues"
+  },
+  "homepage": "https://github.com/zzilcc/theme-default#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^4.0.2"
+  }
+}

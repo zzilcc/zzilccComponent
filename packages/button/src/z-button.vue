@@ -1,8 +1,6 @@
 <template>
     <div>
-      <button
-      
-      ></button>
+      <button class="z-button"></button>
     </div>
 </template>
 <script>
