@@ -1,5 +1,13 @@
 .z-button {
-  height: 30px;
-  width: 80px;
-  background: red;
+  display: inline-block;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  background: #fff;
+  border: 1px solid #eee;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0;
+  font-size: 14px;
+  border-radius: 4px;
 }
